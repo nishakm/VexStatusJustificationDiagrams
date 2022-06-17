@@ -12,7 +12,7 @@ The "a" version is the original as reviewed.
 
 The "b" version is the changes requested at the meeting.
 
-If a "c" version exists, it is to show an alernative way (eg I wasn't sure which was decided at meeting so I did both).
+If a "c" version exists, it is to show an alternative way (eg I wasn't sure which was decided at meeting so I did both).
 
 3.2-Legend.b.drawio.png has the following changes:
 - it is no longer 'empty', it is the 'code is vulnerable' case
@@ -30,6 +30,10 @@ If a "c" version exists, it is to show an alernative way (eg I wasn't sure which
 3.5-vulnerable_code_not_in_execute_path.b has changes similar to 3.2. The red X makes it more obvious the bad code is there, just not executed.
 
 3.6-vulnerable_code_cannot_be_controlled_by_adversary.b has changes similar to 3.2. It also has Eliot's proposed change to move adversary to the top
+
+3.6-vulnerable_code_cannot_be_controlled_by_adversary.c has the "b" changes but I missed Charlie's skull & crossbones comment.
+Since there actually is a standard set of icons for threat intelligence
+sharing, I thought we should use the standard icons (eg archilles heel in a target instead of skull & crossbones) so we don't reopen all the arguments they had in the STIX standards committee.
 
 3.7-inline_mitigations_exist.b has changes similar to 3.2. It also has
 Duncan's proposed change to 'enclose' with mitigations. 3.7-inline_mitigations_exist.c is a different version (just the component) in case people like that better.
@@ -63,6 +67,9 @@ Duncan's proposed change to 'enclose' with mitigations. 3.7-inline_mitigations_e
 
 # 3.6 Proposed Changes
 ![36b](./3.6-vulnerable_code_cannot_be_controlled_by_adversary.b.drawio.png)
+
+# 3.6 Alternate Proposed Changes
+![36c](./3.6-vulnerable_code_cannot_be_controlled_by_adversary.c.drawio.png)
 
 # 3.7 Existing
 ![37a](./3.7-inline_mitigations_exist.a.drawio.png)
