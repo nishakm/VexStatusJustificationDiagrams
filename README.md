@@ -33,3 +33,42 @@ If a "c" version exists, it is to show an alernative way (eg I wasn't sure which
 
 3.7-inline_mitigations_exist.b has changes similar to 3.2. It also has
 Duncan's proposed change to 'enclose' with mitigations. 3.7-inline_mitigations_exist.c is a different version (just the component) in case people like that better.
+
+# 3.2 Existing
+![32a](./3.2-Legend.a.drawio.png)
+
+# 3.2 Proposed Changes
+![32a](./3.2-Legend.b.drawio.png)
+
+# 3.3 Existing
+![33a](./3.3-component_not_present.a.drawio.png)
+
+# 3.3 Proposed Changes
+![33b](./3.3-component_not_present.b.drawio.png)
+
+# 3.4 Existing
+![34a](./3.4-vulnerable_code_not_present.a.drawio.png)
+
+# 3.4 Proposed Changes
+![34b](./3.4-vulnerable_code_not_present.b.drawio.png)
+
+# 3.5 Existing
+![35a](./3.5-vulnerable_code_not_in_execute_path.a.drawio.png)
+
+# 3.5 Proposed Changes
+![35b](./3.5-vulnerable_code_not_in_execute_path.b.drawio.png)
+
+# 3.6 Existing
+![36a](./3.6-vulnerable_code_cannot_be_controlled_by_adversary.a.drawio.png)
+
+# 3.6 Proposed Changes
+![36b](./3.6-vulnerable_code_cannot_be_controlled_by_adversary.b.drawio.png)
+
+# 3.7 Existing
+![37a](./3.7-inline_mitigations_exist.a.drawio.png)
+
+# 3.7 Proposed Change 1
+![37b](./3.7-inline_mitigations_exist.b.drawio.png)
+
+# 3.7 Alternate Proposed Change
+![37c](./3.7-inline_mitigations_exist.c.drawio.png)
